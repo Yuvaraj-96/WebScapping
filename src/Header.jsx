@@ -11,7 +11,7 @@ function Header() {
                 <div className="row g-3 mt-2">
                     <div className="col-md-3">
                       <div className="dropdown">
-                            <select name="cars" id="cars" className="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"  aria-expanded="false">                  
+                            <select name="Categories"  className="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"  aria-expanded="false">                  
                                 <option className="dropdown-item" value="All Categories">All Categories</option>
                                 <option className="dropdown-item" value="Electronics">Electronics</option>
                                 <option className="dropdown-item" value="Clothing & Accessories">Clothing & Accessories</option>
