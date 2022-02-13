@@ -2,16 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Scapper from './Scrapper';
+
 import Header from './Header'
-import Scrapper from './Scrapper';
+
 
 
 
 ReactDOM.render(
   <React.StrictMode>
   <Header/> 
-  <Scapper/>
   </React.StrictMode>,
   document.getElementById('root')
 );
