@@ -43,6 +43,10 @@ function Scrapper() {
 //     return html
 //   }
 
+
+
+//git adds
+
 async function fetchdetails(){
 try{
 
